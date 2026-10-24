@@ -1,9 +1,10 @@
 mkdir pronto
-touch READ.txt
-echo "this is info about the data" > READ.text
+cd pronto/
+echo 'hello! this is info about the data' > README.txt
 mkdir data
 cd data/
-curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip
+curl -O https://s3.amazonaws.com/pronto-data/open_data_year_one.zip 
 unzip open_data_year_one.zip
-head *.csv
+head 2015_trip_data.csv
+
 
