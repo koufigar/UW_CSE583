@@ -1,3 +1,2 @@
-I was behind on the Software Carpentry lessons, so I started by watching Noah's videos, which took much longer than I expected. I also worked through parts of the Handbook, but that was slower going than I'd planned. Apologoes but I have not finished every part of this assignment, and I did not want to just get through them. I plan to complete the remaining sections by the end of the week.
-
-I am trying to be mindful and not use Claude as much but I did end up asking some questions such as the correct format string for parsing datetimes.
+Ugh finally I finished this!!! Sorry it took me much much longer! 
+I tried to not use Claude and tried to use pandas.pydata.org/docs but I went through so many rabit holes!
